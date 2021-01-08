@@ -6,16 +6,16 @@ import { ReactComponent as InstagramIcon } from './instagram.svg';
 function Footer() {
     return (
         <footer className="main-footer">
-            App desenvolvido por JNR para fins de estudo
+            App desenvolvido por DevSuperior
             <div className="footer-icons">
                 <a href="https://www.youtube.com/c/DevSuperior" target="_new">
-                    <YoutubeIcon/>
+                    <YoutubeIcon />
                 </a>
                 <a href="https://www.linkedin.com/school/devsuperior/" target="_new">
-                    <LinkedinIcon/>
+                    <LinkedinIcon />
                 </a>
                 <a href="https://www.instagram.com/devsuperior.ig/">
-                    <InstagramIcon/>
+                    <InstagramIcon />
                 </a>
             </div>
         </footer>
