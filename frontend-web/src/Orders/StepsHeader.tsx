@@ -11,8 +11,8 @@ function StepsHeader() {
                         Selecione os produtos e localização.
                     </li>
                     <li>
-                        <span className="steps-number">1</span>
-                        Depois clique em <strong>"ENIVAR PEDIDO"</strong>
+                        <span className="steps-number">2</span>
+                        Depois clique em <strong>"ENVIAR PEDIDO"</strong>
                     </li>
                 </ul>
             </div>
