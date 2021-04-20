@@ -1,9 +1,7 @@
 package com.jnr.deliver.controller;
 
 import com.jnr.deliver.dto.OrderDTO;
-import com.jnr.deliver.dto.ProductDTO;
 import com.jnr.deliver.service.OrderService;
-import com.jnr.deliver.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
